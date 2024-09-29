@@ -1,0 +1,5 @@
+{
+  "location": "Dubai",
+  "category": "restaurant",
+  "columns": "all"
+}
